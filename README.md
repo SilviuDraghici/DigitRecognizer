@@ -17,7 +17,7 @@ The activation function is also configurable: Logistic and Hyperbolic  Tangent a
 
 ---
 
-This is a visualization of the network learning its weights. 
+This is a visualization of the network learning its weights.  
 ![TV]
 
 Each box is a different output neuron. The top left is the 0 recognizer and the bottom right is the 9 recognizer.
